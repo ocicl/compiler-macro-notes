@@ -1,0 +1,9 @@
+* compiler-macro-notes
+
+Another attempt at compiler-macro.
+
+|---------+-----------------------------------------------------------|
+| source  | git:https://github.com/digikar99/compiler-macro-notes.git |
+| commit  | 55b0b1f                                                   |
+| systems | compiler-macro-notes                                      |
+|---------+-----------------------------------------------------------|
